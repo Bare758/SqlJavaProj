@@ -7,7 +7,7 @@ public class AccountDao
 {
 	private String dburl="jdbc:mysql://localhost:3306/userdb?serverTimezone=UTC";
 	private String dbuname="root";
-	private String dbpassword="12Hustlegang34";
+	private String dbpassword="";
 	private String dbdriver="com.mysql.jdbc.Driver";
 	public void loadDriver(String dbDriver) 
 	{
